@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "name": "Ana Silva Lopes",
+      "email": "anaSilva@contato.com.br",
+      "id": 3
+    },
+    {
+      "name": "Novo Susuário Alterado",
+      "email": "e-mail@e-mail.com",
+      "id": 4
+    }
+  ]
+}
